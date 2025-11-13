@@ -51,7 +51,7 @@ namespace FavoriteShows.Pages
             {
                 connection.Open();
                 var command = connection.CreateCommand();
-                command.CommandText = "SELECT Id, Name FROM Shows";
+                command.CommandText = "SELECT Id, Title FROM Shows";
                 using (var reader = command.ExecuteReader())
                 {
                     while (reader.Read())
