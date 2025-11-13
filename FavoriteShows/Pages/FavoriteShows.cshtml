@@ -26,9 +26,9 @@
         <!-- Display the selected shows title as a heading -->
         <h2>@Model.SelectedShows.Title</h2>
         <!-- Display the show's release year -->
-        <p>@Model.SelectedShows.ReleaseYear</p>
+        <p>Release Year: @Model.SelectedShows.ReleaseYear</p>
         <!-- Display the show's genre -->
-        <p>Price: $@Model.SelectedShows.Genre</p>
+        <p>Genre: @Model.SelectedShows.Genre</p>
         <!-- Display the show's image with a maximum width and alt text for accessibility -->
         <img src="/images/@Model.SelectedShows.ImageFileName" alt="@Model.SelectedShows.Title" style="max-width: 300px;" />
     </div>
