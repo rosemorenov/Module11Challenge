@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/workspaces/Module11Challenge/FavoriteShows/Pages/FavoriteShows.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmF2b3JpdGVTaG93cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/workspaces/Module11Challenge/FavoriteShows/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,10 +36,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/workspaces/Module11Challenge/FavoriteShows/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/workspaces/Module11Challenge/FavoriteShows/Pages/Shows.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hvd3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/workspaces/Module11Challenge/FavoriteShows/Pages/_ViewImports.cshtml]
